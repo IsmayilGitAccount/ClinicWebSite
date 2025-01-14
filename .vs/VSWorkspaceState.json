@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClinicWebSite",
+    "\\ClinicWebSite\\ClinicWebSite",
+    "\\ClinicWebSite\\ClinicWebSite\\Areas",
+    "\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin",
+    "\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Controllers"
+  ],
+  "SelectedNode": "\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Controllers\\DoctorController.cs",
+  "PreviewInSolutionExplorer": false
+}

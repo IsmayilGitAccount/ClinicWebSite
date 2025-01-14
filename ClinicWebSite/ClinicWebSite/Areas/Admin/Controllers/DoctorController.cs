@@ -1,4 +1,5 @@
-﻿using ClinicWebSite.Areas.ViewModels.Doctor;
+﻿using ClinicWebSite.Areas.ViewModels;
+using ClinicWebSite.Areas.ViewModels.Doctor;
 using ClinicWebSite.Data;
 using ClinicWebSite.Models;
 using ClinicWebSite.Utilities.Extensions;
@@ -57,17 +58,15 @@ namespace ClinicWebSite.Areas.Admin.Controllers
             }
 
 
-           
+            //var department = await _context.Departments
+            //                               .FirstOrDefaultAsync(d => d.DepartmentName.Trim() == doctorVM.DepartmentName.Trim());
 
-            var department = await _context.Departments
-                                           .FirstOrDefaultAsync(d => d.DepartmentName.Trim() == doctorVM.DepartmentName.Trim());
-
-            if (department == null)
-            {
-                department = new Department { DepartmentName = doctorVM.DepartmentName };
-                _context.Departments.Add(department);
-                await _context.SaveChangesAsync();
-            }
+            //if (department == null)
+            //{
+            //    department = new Department { DepartmentName = doctorVM.DepartmentName };
+            //    _context.Departments.Add(department);
+            //    await _context.SaveChangesAsync();
+            //}
 
             Doctor doctor = new Doctor()
             {
@@ -76,7 +75,7 @@ namespace ClinicWebSite.Areas.Admin.Controllers
                 FacebookLink = doctorVM.FacebookLink,
                 TwitterLink = doctorVM.TwitterLink,
                 InstagramLink = doctorVM.InstagramLink,
-                DepartmentId = department.Id
+                DepartmentId = doctorVM.DepartmentId
             };
 
             doctor.Image = await doctorVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "img");

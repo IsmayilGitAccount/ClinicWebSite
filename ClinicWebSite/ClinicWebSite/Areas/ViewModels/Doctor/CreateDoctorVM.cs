@@ -1,7 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
-using ClinicWebSite.Models;
+﻿
+using System.ComponentModel.DataAnnotations;
 
-namespace ClinicWebSite.Areas.ViewModels.Doctor
+namespace ClinicWebSite.Areas.ViewModels
 {
     public class CreateDoctorVM
     {
@@ -9,7 +9,9 @@ namespace ClinicWebSite.Areas.ViewModels.Doctor
         public string DoctorName { get; set; }
 
         [Required]
-        public string DepartmentName { get; set; }
+        public int DepartmentId { get; set; }
+
+        public List<ClinicWebSite.Models.Department> Department { get; set; }
 
         [Required]
         public string Image { get; set; }
