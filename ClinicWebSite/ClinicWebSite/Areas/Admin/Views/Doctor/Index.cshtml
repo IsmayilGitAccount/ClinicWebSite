@@ -1,0 +1,58 @@
+﻿@using ClinicWebSite.Areas.ViewModels.Doctor
+@model List<GetDoctorVM>
+@{
+    int count = 0;
+}
+<div class="card-body">
+    <h4 class="card-title">Doctors' Table</h4>
+
+    <div class="table-responsive">
+        <a asp-action="create" class="btn btn-success">Add Doctor</a>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        No
+                    </th>
+                    <th>
+                        Doctor's image
+                    </th>
+                    <th>
+                        Doctor's name
+                    </th>
+                    <th>
+                        Department's name
+                    </th>
+                    <th>
+                        Settings
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (GetDoctorVM doctorVM in Model)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td class="py-1">
+                            <img src="~/assets/img/@doctorVM.Image" alt="image" style="width:50px;height:50px;"/>
+                        </td>
+                        <td>
+                            @doctorVM.DoctorName
+                        </td>
+                        <td>
+                            @doctorVM.DepartmentName
+                        </td>
+                        <td>
+                            <a asp-action="update" asp-route-id="@doctorVM.Id" class="btn btn-warning"><i class="mdi mdi-pencil"></i></a>
+                            <a asp-action="delete" asp-route-id="@doctorVM.Id" class="btn btn-danger"><i class="mdi mdi-delete-variant"></i></a>
+                            <a class="btn btn-info"><i class="mdi mdi-open-in-app"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

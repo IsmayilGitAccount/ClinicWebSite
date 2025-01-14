@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code Academy\\ClinicWebSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\viewmodels\\doctor\\createdoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\viewmodels\\doctor\\createdoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\viewmodels\\doctor\\updatedoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\viewmodels\\doctor\\updatedoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\viewmodels\\doctor\\getdoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\viewmodels\\doctor\\getdoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Migrations\\20250114081008_Configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicWebSite\\Migrations\\20250114081008_Configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\migrations\\20250113120628_createdoctorsanddepartmentstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\migrations\\20250113120628_createdoctorsanddepartmentstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\configuration\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\configuration\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\viewmodels\\department\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\viewmodels\\department\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\configuration\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\configuration\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\viewmodels\\department\\updatedepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\viewmodels\\department\\updatedepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\viewmodels\\department\\getdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\viewmodels\\department\\getdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|c:\\code academy\\clinicwebsite\\clinicwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D018ED3-5988-4CE5-A05C-C42A8B4D69FD}|ClinicWebSite\\ClinicWebSite.csproj|solutionrelative:clinicwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:05:42.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:05:08.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T17:50:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T13:13:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:39:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T19:36:59.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwF4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:54:02.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateDoctorVM.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Doctor\\CreateDoctorVM.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\ViewModels\\Doctor\\CreateDoctorVM.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Doctor\\CreateDoctorVM.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\ViewModels\\Doctor\\CreateDoctorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:32:27.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateDoctorVM.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Doctor\\UpdateDoctorVM.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\ViewModels\\Doctor\\UpdateDoctorVM.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Doctor\\UpdateDoctorVM.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\ViewModels\\Doctor\\UpdateDoctorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:57:52.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetDoctorVM.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Doctor\\GetDoctorVM.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\ViewModels\\Doctor\\GetDoctorVM.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Doctor\\GetDoctorVM.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\ViewModels\\Doctor\\GetDoctorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:06:16.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "ClinicWebSite\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvzMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:30:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "ClinicWebSite\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:31:48.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250114081008_Configurations.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Migrations\\20250114081008_Configurations.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Migrations\\20250114081008_Configurations.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Migrations\\20250114081008_Configurations.cs",
+              "RelativeToolTip": "ClinicWebSite\\Migrations\\20250114081008_Configurations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:10:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250113120628_CreateDoctorsAndDepartmentsTables.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Migrations\\20250113120628_CreateDoctorsAndDepartmentsTables.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Migrations\\20250113120628_CreateDoctorsAndDepartmentsTables.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Migrations\\20250113120628_CreateDoctorsAndDepartmentsTables.cs",
+              "RelativeToolTip": "ClinicWebSite\\Migrations\\20250113120628_CreateDoctorsAndDepartmentsTables.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:04:44.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ClinicWebSite\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:08:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:55:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Configuration\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "ClinicWebSite\\Configuration\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:55:30.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Configuration\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Configuration\\DoctorConfiguration.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Configuration\\DoctorConfiguration.cs",
+              "RelativeToolTip": "ClinicWebSite\\Configuration\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:18:48.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicWebSite\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:02:39.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Models\\Department.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Models\\Department.cs",
+              "RelativeToolTip": "ClinicWebSite\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:03:07.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:56:23.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:56:31.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:30:15.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:58:19.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:59:31.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ClinicWebSite\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:55:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:38:45.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:13:58.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:56:45.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ClinicWebSite\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:26:15.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T11:40:27.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwJUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T11:37:51.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ClinicWebSite\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:54:35.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClinicWebSite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:46:20.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Program.cs",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Program.cs",
+              "RelativeToolTip": "ClinicWebSite\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:35:31.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:28:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicWebSite\\appsettings.json",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\appsettings.json",
+              "RelativeToolTip": "ClinicWebSite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T11:39:54.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ClinicWebSite\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Code Academy\\ClinicWebSite\\ClinicWebSite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ClinicWebSite\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T11:38:22.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

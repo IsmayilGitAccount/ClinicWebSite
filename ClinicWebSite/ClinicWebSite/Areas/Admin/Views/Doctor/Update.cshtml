@@ -1,0 +1,48 @@
+﻿@using ClinicWebSite.Areas.ViewModels.Doctor
+@model UpdateDoctorVM
+
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Update Doctors</h4>
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="exampleInputName1">Photo</label>
+                        <input asp-for="Photo" class="form-control" id="Photo">
+                        <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputName1">Doctor's Name</label>
+                        <input asp-for="DoctorName" class="form-control" id="DoctorName" placeholder="Enter doctor's name">
+                        <span asp-validation-for="DoctorName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputName1">Department's Name</label>
+                        <input asp-for="DepartmentName" class="form-control" id="DepartmentName" placeholder="Enter department's name">
+                        <span asp-validation-for="DepartmentName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputName1">Facebook</label>
+                        <input asp-for="FacebookLink" class="form-control" id="FacebookLink" placeholder="Enter facebook link">
+                        <span asp-validation-for="FacebookLink" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputName1">Twitter</label>
+                        <input asp-for="TwitterLink" class="form-control" id="TwitterLink" placeholder="Enter twitter link">
+                        <span asp-validation-for="TwitterLink" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputName1">Instagram</label>
+                        <input asp-for="InstagramLink" class="form-control" id="InstagramLink" placeholder="Enter instagram link">
+                        <span asp-validation-for="InstagramLink" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

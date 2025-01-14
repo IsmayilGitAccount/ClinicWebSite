@@ -1,0 +1,52 @@
+﻿@using ClinicWebSite.Areas.ViewModels.Department
+@* @using ClinicWebSite.Areas.ViewModels.Department *@
+@* @model CreateDepartmentVM *@
+
+@* <div class="row"> *@
+@*     <div class="col-12 grid-margin stretch-card"> *@
+@*         <div class="card"> *@
+@*             <div class="card-body"> *@
+@*                 <h4 class="card-title">Add Department</h4> *@
+@*                 <p class="card-description"> *@
+@*                     Basic form elements *@
+@*                 </p> *@
+@*                 <form class="forms-sample" method="post"> *@
+@*                     <div class="form-group"> *@
+@*                         <label for="exampleInputName1">Department Name</label> *@
+@*                         <input asp-for="DepartmentName" class="form-control" id="DepartmentName" placeholder="Enter department's name"> *@
+@*                         <span asp-validation-for="DepartmentName" class="text-danger"></span> *@
+@*                     </div> *@
+
+@*                     <button type="submit" class="btn btn-primary me-2">Submit</button> *@
+@*                     <button class="btn btn-light">Cancel</button> *@
+@*                 </form> *@
+@*             </div> *@
+@*         </div> *@
+@*     </div> *@
+@* </div> *@
+
+
+@model CreateDepartmentVM
+
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Create Category</h4>
+                <p class="card-description">
+                    Basic form elements
+                </p>
+                <form class="forms-sample" method="post">
+                    <div class="form-group">
+                        <label for="exampleInputName1">Name</label>
+                        <input asp-for="DepartmentName" class="form-control" id="Name" placeholder="Enter category name">
+                        <span asp-validation-for="DepartmentName" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

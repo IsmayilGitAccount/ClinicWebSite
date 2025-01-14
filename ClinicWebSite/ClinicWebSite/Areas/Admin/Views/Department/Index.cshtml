@@ -1,0 +1,46 @@
+﻿@using ClinicWebSite.Areas.ViewModels.Department
+@model List<GetDepartmentVM>
+@{
+    int count = 0;
+}
+<div class="card-body">
+    <h4 class="card-title">Departments' Table</h4>
+
+    <div class="table-responsive">
+        <a asp-action="create" class="btn btn-success">Add Department</a>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        No
+                    </th>
+                    <th>
+                        Department's name
+                    </th>
+                    <th>
+                        Settings
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (GetDepartmentVM departmentVM in Model)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                            @departmentVM.DepartmentName
+                        </td>
+                        <td>
+                            <a asp-action="update" asp-route-id="@departmentVM.Id" class="btn btn-warning"><i class="mdi mdi-pencil"></i></a>
+                            <a asp-action="delete" asp-route-id="@departmentVM.Id" class="btn btn-danger"><i class="mdi mdi-delete-variant"></i></a>
+                            <a class="btn btn-info"><i class="mdi mdi-open-in-app"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
